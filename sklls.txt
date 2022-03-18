@@ -1,0 +1,7 @@
+Skills that will be studied on the course:
+- Mobile testing
+- API Testing with Postman
+- SQL Basics 
+- Basics of bash scripting automation of routine tasks on the server
+- Access to remote servers
+- HTTP Server Request Methods
